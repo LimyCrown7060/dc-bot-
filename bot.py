@@ -94,4 +94,4 @@ async def hayvan(ctx):
     await ctx.send("Bugünün hayvanı: " + random.choice(hayvanlar))
  
 
-bot.run("MTUxMjc5Njk4NTY0MjcxMzE0MA.Gv3KMs.Mbg12b5mH9duFsCCq5XxzNnZ8WYB-1p6mTlyA8")
+bot.run("token")
